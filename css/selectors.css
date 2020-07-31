@@ -1,0 +1,25 @@
+.login-div {
+
+    padding: 15px;
+    border: solid 1px #222;
+    box-shadow: 0 0 2px;
+    display: inline-block
+}
+
+.login-div input {
+    padding: 3px;
+    display: block;
+    margin-buttom: 7px;
+}
+
+.login-div button:hover {
+
+    box-shadow: 2px 2px 3px #222;
+    
+}
+
+.login-div input:focus {
+
+    box-shadow: 2px 2px 3px #222;
+    border: none;
+}
